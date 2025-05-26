@@ -1,0 +1,11 @@
+Product_ID,Product_Name,Category,Unit_Cost,Lead_Time_Days
+P001,Product A,Accessories,122,13
+P002,Product B,Home Appliances,455,13
+P003,Product C,Home Appliances,290,10
+P004,Product D,Office,126,7
+P005,Product E,Accessories,91,6
+P006,Product F,Accessories,40,10
+P007,Product G,Home Appliances,634,10
+P008,Product H,Accessories,141,5
+P009,Product I,Accessories,486,8
+P010,Product J,Home Appliances,234,7

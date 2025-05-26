@@ -1,0 +1,31 @@
+Product_ID,Order_Date,Expected_Delivery,Quantity_Ordered,Supplier_Name,Order_Status
+P009,2024-01-20,2024-01-26,192,Supplier A,Pending
+P009,2024-01-11,2024-01-17,62,Supplier B,Delivered
+P006,2024-01-07,2024-01-20,135,Supplier C,In Transit
+P006,2024-01-02,2024-01-14,94,Supplier A,Delivered
+P009,2024-01-25,2024-02-01,183,Supplier B,Pending
+P010,2024-01-12,2024-01-26,133,Supplier C,Delivered
+P005,2024-01-11,2024-01-23,141,Supplier A,Cancelled
+P004,2024-01-25,2024-02-03,178,Supplier B,Delivered
+P009,2024-01-25,2024-02-07,170,Supplier C,Pending
+P008,2024-01-20,2024-01-31,52,Supplier A,In Transit
+P009,2024-01-07,2024-01-15,186,Supplier B,Delivered
+P002,2024-01-05,2024-01-08,100,Supplier C,Delivered
+P002,2024-01-10,2024-01-24,108,Supplier A,Pending
+P004,2024-01-22,2024-02-01,162,Supplier B,Delivered
+P001,2024-01-17,2024-01-29,101,Supplier C,Delivered
+P004,2024-01-12,2024-01-21,179,Supplier A,In Transit
+P001,2024-01-03,2024-01-06,150,Supplier B,Delivered
+P002,2024-01-17,2024-01-27,130,Supplier C,Cancelled
+P005,2024-01-17,2024-01-21,179,Supplier A,Delivered
+P002,2024-01-22,2024-01-31,178,Supplier B,Delivered
+P008,2024-01-19,2024-01-23,102,Supplier C,Pending
+P004,2024-01-12,2024-01-24,117,Supplier A,Delivered
+P010,2024-01-23,2024-02-05,172,Supplier B,Pending
+P005,2024-01-17,2024-01-25,73,Supplier C,Delivered
+P005,2024-01-05,2024-01-11,147,Supplier A,Delivered
+P002,2024-01-06,2024-01-14,188,Supplier B,Cancelled
+P003,2024-01-16,2024-01-19,173,Supplier C,Delivered
+P006,2024-01-06,2024-01-11,197,Supplier A,Pending
+P008,2024-01-04,2024-01-09,139,Supplier B,Delivered
+P004,2024-01-03,2024-01-08,197,Supplier C,In Transit
