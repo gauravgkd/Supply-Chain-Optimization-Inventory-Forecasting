@@ -102,6 +102,9 @@ CSV files imported from Excel into MySQL.
 ![EXCEL WorkBook](https://github.com/user-attachments/assets/02311f2a-37c0-46f1-bd82-a4e76f595886)
 
 
+![ER Diagram](https://github.com/user-attachments/assets/12703cd0-a2b1-491d-8b6d-9e71efdfcda0)
+
+
 ![Pivot Tables](https://github.com/user-attachments/assets/41bae1f3-038c-43c4-a396-6b24a1cd1b22)
 
 
